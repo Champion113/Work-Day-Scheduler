@@ -1,7 +1,7 @@
 # Work Day Scheduler 
 This scheduler will help you plan your regular work day
 
-# Opertaions
+# Operations
 Display the current date 
 Display time by every hour
 Past time shown in grey
